@@ -1,0 +1,24 @@
+.webName{
+    font-size:50px;
+    font-weight:bold;
+}
+
+.navs{
+    background-color:rgb(212, 195, 138);
+ 
+
+}
+
+.navs a{
+    text-decoration:none;
+    color:white;
+    padding: 10px;
+}
+
+.navs a:hover{
+    background-color:rgb(131, 201, 91);
+}
+
+.topPart{
+    background-color:rgb(184, 184, 223);
+}

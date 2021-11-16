@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("../../images/banner.webp");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.prb{
+     color:burlywood;
+     font-weight:bold;
+}
